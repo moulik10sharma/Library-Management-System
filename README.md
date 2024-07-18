@@ -4,5 +4,5 @@
   <img height="200" src="https://github.com/moulik10sharma/Library-Management-System/assets/92577073/f0079cd7-276b-4130-b0fc-7a1a3115e2d9"/>
 </div>
 <div align="center">
-  <img height="440" src="https://github.com/moulik10sharma/Library-Management-System/assets/92577073/93f3ed69-adb2-44ea-a580-9ba78816615a"/>
+  <img height="440" src="https://github.com/user-attachments/assets/275a8926-9b7e-4f35-bbc2-9b0e395497c4"/>
 </div>
